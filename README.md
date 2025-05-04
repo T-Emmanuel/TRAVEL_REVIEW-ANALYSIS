@@ -17,3 +17,5 @@ Genesys upskill cohort 2 (2024) FINAL GROUP PROJECT (TRAVEL DATASETS)
 
 [Travel_Data-2.csv](https://github.com/user-attachments/files/20027838/Travel_Data-2.csv)
 
+# PRESENTATION LINK
+[presentation](https://docs.google.com/presentation/d/1XVMsg-nW021ZbomU2L08WEAYHgjFEZ02QWNoNpt-lHo/edit?usp=sharing)
